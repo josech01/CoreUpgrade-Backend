@@ -1,2 +1,2 @@
 # CoreUpgrade-Backend
-![My image](josech01.github.com/CoreUpgrade-Backend/captura.png)
+![My image](http://i.imgur.com/eXDUqNt.png)
