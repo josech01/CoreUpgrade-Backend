@@ -1,0 +1,8 @@
+Angular 2
+React 1
+Jquery 1
+Ember 1
+React 1
+Angular 1
+Vanilla 2
+
